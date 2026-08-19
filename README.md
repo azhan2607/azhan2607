@@ -74,9 +74,9 @@ Building production-ready AI applications and growing as an AI/Data Science engi
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
-I'm currently keeping this section focused on GitHub while I organize my professional links and portfolio.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faiz%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiz-ahmed-64901a32a/)
 
 ---
 
