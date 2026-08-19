@@ -76,7 +76,8 @@ Building production-ready AI applications and growing as an AI/Data Science engi
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faiz%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiz-ahmed-64901a32a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faiz%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiz-ahmed-64901a32/)
+[![Email](https://img.shields.io/badge/Email-mohammedazhan780%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedazhan780@gmail.com)
 
 ---
 
