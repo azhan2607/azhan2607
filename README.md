@@ -1,4 +1,4 @@
-# Hi, I'm Azhan 👋
+# Hi, I'm Faiz Ahmed 👋
 
 ### AI & Data Science Engineer | Machine Learning | Computer Vision
 
